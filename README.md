@@ -1,4 +1,4 @@
-# 🤖 SQL SAGE – DBMS Expert Chatbot
+# 🤖 Database Assistant---Chatbot
 
 Database Assistant is an educational desktop application designed to help users learn both basic and advanced concepts of Database Management Systems (DBMS).  
 It features a modern  interface and explains major DBMS topics in simple language with clear examples.
